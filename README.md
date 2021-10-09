@@ -14,7 +14,7 @@ https://start.spring.io/
 ##### all properties config
 1- https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html
 2- default user and password for spring secuirty , user and password logged in the console.
-
+3- how to add react with spring boot https://www.bezkoder.com/integrate-reactjs-spring-boot/
 
 
 ### some config
