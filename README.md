@@ -16,8 +16,8 @@ https://start.spring.io/
 2. default user and password for spring secuirty , user and password logged in the console.
 3. how to add react with spring boot https://www.bezkoder.com/integrate-reactjs-spring-boot/ 
 4. Build and run the Spring Boot server with commands:
-    *. mvn clean install
-    *. mvn spring-boot:run
+*. mvn clean install
+*. mvn spring-boot:run
 
 ### some config
 
