@@ -31,3 +31,8 @@ spring.datasource.url=jdbc:postgres://localhost:5432
 spring.datasource.username=admin
 spring.datasource.password=password
 ```
+
+
+# PIXI JS and Spring Boot
+
+https://pixijs.io/guides/basics/getting-started.html
