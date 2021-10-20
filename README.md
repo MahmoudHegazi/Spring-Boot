@@ -32,6 +32,7 @@ spring.datasource.username=admin
 spring.datasource.password=password
 ```
 
+![screenshot](java_chat.JPG)
 
 # PIXI JS and Spring Boot
 
