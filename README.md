@@ -32,6 +32,10 @@ spring.datasource.username=admin
 spring.datasource.password=password
 ```
 
+
+## How to Configure MySQL
+https://walkingtechie.blogspot.com/2018/12/execute-schema-and-data-sql-on-startup-spring-boot.html
+
 ![screenshot](java_chat.JPG)
 
 # PIXI JS and Spring Boot
